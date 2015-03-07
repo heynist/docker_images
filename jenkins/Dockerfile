@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.02
+FROM ubuntu:14.04
 MAINTAINER Steven Heyninck, "steven.heyninck@foresee.be"
 
 RUN echo deb http://archive.ubuntu.com/ubuntu trusty universe >> /etc/apt/sources.list
